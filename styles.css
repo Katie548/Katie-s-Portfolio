@@ -149,7 +149,7 @@ body {
 .hero-parallax {
   position: relative;
   min-height: 100vh;
-  background-image: url("images/floral-design.jpg");
+  background-image: url("floral-design.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
